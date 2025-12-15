@@ -35,7 +35,7 @@ BASE_CONCEPTS = "https://api.openalex.org/concepts"
 # -------------------------
 # Settings
 # -------------------------
-MAILTO = "berke.palamutcu10@euvt.ro"
+MAILTO = "email"
 PER_PAGE = 200
 SLEEP = 0.15
 
